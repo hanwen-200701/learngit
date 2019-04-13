@@ -1,1 +1,2 @@
 Let's study git now!!!
+Creating a new branch is quick.
